@@ -72,7 +72,7 @@ et enfin une liste des 100 (ou moins) derniers chapitres du manga
 <img src="readme_images/Ecran du detail du manga.png">                  
 
 
-En appuyant sur un chapitre, un nouveau fragment s'ouvre, permettant de lire chapitre (gallerie d'images)
+En appuyant sur un chapitre, un nouveau fragment s'ouvre, permettant de lire chapitre
 
 
 <img src="readme_images/fragment.png"> 
