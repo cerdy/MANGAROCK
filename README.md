@@ -95,10 +95,10 @@ quelque soit le manga, son (ses) chapitre(s) sorti(s) récemment s'il y en a.
 
 ## Appris
 
-- Programmation réactive (découverte de RxJava)
-- Utilisation de base de données sqlite pour une application android (Room, DAO, entity, database...)
-- Utilisation de Livedata
-- Utilisation de fragments
+- RxJava
+- base de données sqlite (Room, DAO, entity, database, etc)
+- Livedata
+- fragments
 
 ## Objectifs Futurs
 - Kotlin
