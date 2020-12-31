@@ -102,4 +102,6 @@ quelque soit le manga, son (ses) chapitre(s) sorti(s) récemment s'il y en a.
 
 ## Objectifs Futurs
 - Kotlin
-- 
+- firebase
+- CI/CD
+- Chat
